@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\models\\additionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:models\\additionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\models\\advertisingagencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:models\\advertisingagencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|c:\\users\\andrey larionov\\desktop\\advertisingagencyapp\\advertisingagencyapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{73E70F4A-25A5-4B2C-B7E1-3F376BF49B4E}|AdvertisingAgencyApp.csproj|solutionrelative:advertisingagencyapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Client\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Client\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:34:36.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Client\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Client\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:33:55.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Client\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Create.cshtml",
+              "RelativeToolTip": "Views\\Client\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:33:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Client\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Details.cshtml",
+              "RelativeToolTip": "Views\\Client\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:32:39.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Client\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Views\\Client\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Client\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:31:47.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:28:44.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:28:27.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:27:31.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T11:24:43.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T11:24:39.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "favicon.ico -  [Russian (Russia)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\wwwroot\\favicon.ico -  [Russian (Russia)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "wwwroot\\favicon.ico -  [Russian (Russia)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-21T11:24:31.97Z",
+              "EditorCaption": " -  [Russian (Russia)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:24:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdditionalService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Models\\AdditionalService.cs",
+              "RelativeDocumentMoniker": "Models\\AdditionalService.cs",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Models\\AdditionalService.cs",
+              "RelativeToolTip": "Models\\AdditionalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:53.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdvertisingAgencyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Models\\AdvertisingAgencyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AdvertisingAgencyDbContext.cs",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Models\\AdvertisingAgencyDbContext.cs",
+              "RelativeToolTip": "Models\\AdvertisingAgencyDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:16:53.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T10:51:46.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdvertisingAgencyApp",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\AdvertisingAgencyApp.csproj",
+              "RelativeDocumentMoniker": "AdvertisingAgencyApp.csproj",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\AdvertisingAgencyApp.csproj",
+              "RelativeToolTip": "AdvertisingAgencyApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T10:51:43.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T10:51:37.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:48:00.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Andrey Larionov\\Desktop\\AdvertisingAgencyApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:47:57.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
